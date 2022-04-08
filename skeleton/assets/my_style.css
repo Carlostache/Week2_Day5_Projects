@@ -1,0 +1,12 @@
+
+element.style {
+    font-family: Arial, sans-serif;
+    h2 {font-size: 32px };
+    h1 { font-size: 38 px };
+}
+
+
+element.style {
+    list-style: square;
+    list-style: cambodian;
+}
